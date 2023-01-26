@@ -1,0 +1,396 @@
+Unnamed: 0,PLAYERNAME_x,Top Speed,Control,Stamina,Slider,Change,Curve,Sinker,Cutter,Splitter,Unnamed: 0,PowerPitcher,BreakingPitcher,DrK,FastballLife4,FastballLife2,GroundballPitcher,FlyballPitcher,Gyroball,ShuutoSpin,Spin4,Spin2,Walk,Lucky,Unlucky
+425794,Adam Wainwright,90.0,139,186,None,Changeup - 2,Slow Curve - 6,Sinker - 1,Cutter - 1,None,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+425844,Zack Greinke,91.0,150,168,Slider - 3,Changeup - 1,Slow Curve - 1,Sinker - 1,Cutter - 1,None,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+434378,Justin Verlander,96.0,132,179,Hard Slider - 5,Changeup - 5,Curve - 2,None,None,None,2,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+434671,Anibal Sanchez,91.0,106,170,Slider - 1,Changeup - 2,Curve - 1,Sinker - 1,Cutter - 5,None,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+445276,Kenley Jansen,95.0,158,44,Slider - 1,None,None,Sinker - 4,Cutter - 6,None,4,True,False,True,True,False,False,True,False,False,False,False,False,False,False
+445926,Jesse Chavez,92.0,161,52,None,Changeup - 1,Curve - 4,Sinker - 1,Cutter - 5,None,5,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+446372,Corey Kluber,91.0,164,156,None,Changeup - 1,Curve - 4,Sinker - 2,Cutter - 1,None,7,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+448179,Rich Hill,90.0,137,151,Slider - 6,Changeup - 4,Slow Curve - 6,Sinker - 4,Cutter - 2,None,8,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+450203,Charlie Morton,96.0,112,178,None,Changeup - 4,Curve - 5,Sinker - 1,Cutter - 1,None,9,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+453178,Ian Kennedy,95.0,163,44,None,Changeup - 1,Curve - 1,None,Cutter - 1,None,10,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+453268,Daniel Bard,99.0,120,47,Slider - 1,Changeup - 4,None,Hard Sinker - 4,None,None,11,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+453286,Max Scherzer,95.0,152,181,Slider - 1,Changeup - 1,Slow Curve - 2,None,Cutter - 1,None,12,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+453343,Mark Melancon,93.0,141,43,Slider - 1,None,Curve - 4,None,Cutter - 2,Splitter - 5,13,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+455119,Chris Martin,96.0,190,42,Slider - 4,None,Curve - 2,Sinker - 1,Cutter - 1,Splitter - 2,14,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+456034,David Price,94.0,164,51,None,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 1,None,15,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+456501,Johnny Cueto,93.0,157,177,Slider - 1,Changeup - 1,Curve - 1,Sinker - 3,Cutter - 4,None,16,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+456713,Matt Bush,99.0,151,41,None,None,Curve - 2,None,Cutter - 3,None,17,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+458681,Lance Lynn,95.0,136,183,Hard Slider - 4,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 1,None,18,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+459429,Jake McGee,96.0,134,42,Slider - 1,None,None,None,None,None,19,True,False,False,False,True,False,True,False,False,False,True,False,False,False
+468504,Jhoulys Chacin,94.0,100,56,Hard Slider - 5,Changeup - 1,Curve - 4,Sinker - 1,None,None,21,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+471911,Carlos Carrasco,94.0,165,159,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,22,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+472610,Luis Garcia,100.0,121,43,Slider - 4,None,None,Sinker - 1,None,Splitter - 1,23,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+475479,David Phelps,94.0,118,47,None,Changeup - 6,Curve - 1,Sinker - 5,Cutter - 6,None,24,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+476595,Lucas Luetge,89.0,111,52,Slider - 6,None,Slow Curve - 1,None,Cutter - 1,None,25,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+477132,Clayton Kershaw,92.0,158,162,Slider - 1,Changeup - 6,Slow Curve - 1,Sinker - 5,None,None,26,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+489119,Wade Miley,91.0,123,158,Slider - 4,Changeup - 4,Curve - 4,Sinker - 4,Cutter - 1,None,28,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+489334,Craig Stammen,93.0,142,52,Slider - 3,Changeup - 4,Curve - 2,Sinker - 1,Cutter - 1,None,30,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+493603,Adam Ottavino,96.0,115,45,Slider - 6,Changeup - 2,None,Sinker - 1,Cutter - 1,None,32,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+500779,Jose Quintana,92.0,128,142,None,Changeup - 1,Curve - 1,Sinker - 1,None,None,33,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+501381,Michael Pineda,92.0,156,142,Slider - 1,Changeup - 3,None,None,None,None,34,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+501985,Mike Minor,92.0,124,179,Slider - 1,Changeup - 5,Curve - 2,Sinker - 1,None,None,37,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+502042,Chris Archer,94.0,104,141,Slider - 1,Changeup - 1,Curve - 1,None,None,None,38,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+502043,Kyle Gibson,93.0,115,174,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 2,None,39,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+502085,David Robertson,94.0,156,48,Slider - 1,None,Curve - 2,None,Cutter - 6,None,40,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+502171,Alex Cobb,96.0,142,168,None,None,Curve - 3,Sinker - 1,None,Splitter - 3,41,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+502179,Paolo Espino,90.0,116,97,Slider - 6,Changeup - 1,Slow Curve - 6,None,None,None,42,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+502202,Brad Boxberger,94.0,138,43,Slider - 2,Changeup - 1,None,None,None,None,43,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+503449,Wily Peralta,96.0,98,85,Slider - 1,None,None,Sinker - 2,None,Splitter - 4,46,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+506433,Yu Darvish,97.0,138,186,Slider - 5,None,Slow Curve - 1,Sinker - 1,Cutter - 1,Splitter - 1,47,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+517008,Alex Colome,95.0,87,44,None,None,None,None,Cutter - 1,None,48,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+518489,Ryan Brasier,97.0,165,42,Slider - 1,Changeup - 2,None,Sinker - 3,None,None,50,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+518516,Madison Bumgarner,92.0,135,173,Slider - 1,Changeup - 1,Curve - 1,Sinker - 4,Cutter - 1,None,51,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+518553,Steve Cishek,91.0,115,46,Slider - 6,Changeup - 5,None,Sinker - 2,None,None,52,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+518617,Jake Diekman,97.0,127,46,Slider - 6,Changeup - 1,None,Sinker - 3,None,None,54,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+518876,Merrill Kelly,94.0,134,177,Slider - 1,Changeup - 3,Curve - 2,Sinker - 1,Cutter - 5,None,56,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+518886,Craig Kimbrel,97.0,140,46,None,None,Curve - 1,None,None,None,57,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+519043,Matt Moore,95.0,123,60,None,Changeup - 5,Curve - 1,None,None,None,59,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+519151,Ryan Pressly,96.0,161,42,Hard Slider - 4,Changeup - 1,Curve - 6,None,None,None,60,False,False,True,True,False,False,False,False,False,True,False,False,False,False
+519293,Will Smith,94.0,153,43,Slider - 1,Changeup - 4,Curve - 1,None,None,None,62,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+519326,Hunter Strickland,96.0,126,46,Slider - 1,Changeup - 1,None,Sinker - 1,None,None,63,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+521230,Liam Hendriks,99.0,157,45,Hard Slider - 1,None,Curve - 1,None,None,None,64,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+523260,Joe Kelly,99.0,95,44,None,Changeup - 4,Curve - 1,Sinker - 2,None,None,65,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+527048,Martin Perez,94.0,135,153,Slider - 1,Changeup - 3,Curve - 1,Sinker - 3,Cutter - 5,None,66,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+528748,Humberto Castellanos,92.0,107,124,Slider - 1,Changeup - 1,Curve - 2,Sinker - 1,None,None,68,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+541640,Erasmo Ramirez,95.0,149,52,None,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 2,None,69,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+542881,Tyler Anderson,92.0,160,165,None,Changeup - 2,Curve - 1,Sinker - 2,Cutter - 3,None,71,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+542888,Shawn Armstrong,96.0,145,54,Slider - 2,None,None,Sinker - 3,Cutter - 2,None,72,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+542914,Anthony Bass,96.0,155,40,Hard Slider - 1,None,None,Sinker - 4,None,Splitter - 4,73,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+542947,Richard Bleier,92.0,170,38,Slider - 1,Changeup - 2,None,Sinker - 1,Cutter - 1,None,74,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+543037,Gerrit Cole,99.0,138,188,Hard Slider - 2,Changeup - 3,Curve - 4,None,Cutter - 1,None,75,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+543135,Nathan Eovaldi,98.0,159,172,Slider - 1,None,Curve - 2,None,Cutter - 4,Splitter - 2,78,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+543243,Sonny Gray,93.0,121,158,Slider - 6,Changeup - 3,Curve - 6,Sinker - 1,Cutter - 2,None,80,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+543272,Brad Hand,94.0,115,43,Slider - 6,None,None,Sinker - 4,None,None,81,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+543294,Kyle Hendricks,88.0,151,167,None,Changeup - 3,Slow Curve - 4,Sinker - 1,None,None,82,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+543475,Jordan Lyles,93.0,125,179,Slider - 6,Changeup - 1,Curve - 4,Sinker - 1,Cutter - 1,None,84,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+543521,Collin McHugh,92.0,148,52,Slider - 6,None,Slow Curve - 1,None,Cutter - 1,None,86,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+543606,Jake Odorizzi,93.0,93,156,Slider - 1,None,Curve - 2,None,Cutter - 5,Splitter - 3,88,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+543766,Bryan Shaw,96.0,112,45,Slider - 2,Changeup - 1,Curve - 3,Sinker - 1,Cutter - 2,None,89,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+544365,Manny Banuelos,95.0,152,52,Slider - 1,Changeup - 3,Curve - 1,Sinker - 1,None,None,91,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+544727,Jeurys Familia,98.0,94,45,Hard Slider - 5,None,None,Hard Sinker - 3,None,Splitter - 6,92,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+547179,Michael Lorenzen,96.0,134,177,Slider - 2,Changeup - 5,Curve - 4,Sinker - 3,Cutter - 1,None,95,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+547973,Aroldis Chapman,102.0,102,45,Slider - 4,None,None,Sinker - 4,None,Splitter - 1,97,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+548384,Brooks Raley,92.0,142,42,Slider - 6,Changeup - 4,Curve - 5,Sinker - 1,Cutter - 1,None,98,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+548389,Ross Stripling,94.0,169,131,Slider - 1,Changeup - 1,Curve - 2,Sinker - 3,None,None,99,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+554340,Yimi Garcia,97.0,129,45,Slider - 1,Changeup - 5,Curve - 1,Sinker - 2,None,None,101,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+554430,Zack Wheeler,98.0,160,181,Slider - 1,Changeup - 4,Curve - 2,Sinker - 4,None,None,102,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+554431,Tyler Matzek,96.0,99,45,Slider - 2,None,Curve - 4,None,None,None,103,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+570257,Joely Rodriguez,94.0,136,43,Slider - 1,Changeup - 1,None,Sinker - 2,None,None,104,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+570632,Jose Urena,97.0,106,143,Hard Slider - 5,Changeup - 1,None,Hard Sinker - 4,None,None,106,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+570666,Luis Cessa,95.0,131,58,Slider - 1,Changeup - 1,None,Sinker - 1,None,None,108,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+571578,Patrick Corbin,94.0,165,167,Slider - 1,Changeup - 2,Curve - 1,Sinker - 2,None,None,112,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+571656,Buck Farmer,95.0,131,51,Slider - 1,Changeup - 1,None,None,None,None,113,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+571670,Dylan Floro,94.0,149,44,Slider - 1,Changeup - 3,None,Sinker - 3,None,None,114,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+571710,Mychal Givens,95.0,105,46,Slider - 1,Changeup - 1,None,None,None,None,115,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+571760,Andrew Heaney,94.0,162,152,Slider - 1,Changeup - 4,None,None,None,None,116,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+571800,Drew Hutchison,94.0,123,126,Hard Slider - 1,Changeup - 2,None,Sinker - 2,None,None,117,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+571901,Aaron Loup,93.0,124,41,None,Changeup - 4,Slow Curve - 1,Sinker - 3,Cutter - 1,None,119,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+571927,Steven Matz,96.0,127,143,Slider - 1,Changeup - 1,Curve - 5,Sinker - 4,None,None,120,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+571945,Miles Mikolas,95.0,142,180,Hard Slider - 4,Changeup - 1,Slow Curve - 1,Sinker - 1,None,None,121,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+572070,Garrett Richards,97.0,116,79,Hard Slider - 1,Changeup - 1,Slow Curve - 6,Hard Sinker - 1,None,None,124,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+572193,Ryan Tepera,94.0,126,43,Slider - 1,Changeup - 1,Curve - 1,Sinker - 4,None,None,126,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+572971,Dallas Keuchel,90.0,115,164,Slider - 2,Changeup - 1,None,Sinker - 1,Cutter - 1,None,130,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+573124,Taylor Rogers,96.0,174,45,Slider - 5,None,None,Sinker - 2,None,None,132,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+573186,Marcus Stroman,94.0,149,166,Slider - 4,None,Curve - 4,Sinker - 1,Cutter - 1,Splitter - 2,133,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+573204,Caleb Thielbar,94.0,154,45,Slider - 5,Changeup - 1,Slow Curve - 3,None,None,None,134,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+579328,Yusei Kikuchi,96.0,119,134,Hard Slider - 1,Changeup - 1,None,None,Cutter - 4,None,136,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592094,Jason Adam,96.0,144,41,Slider - 4,Changeup - 2,Curve - 5,None,None,None,137,False,False,True,True,False,False,False,True,False,False,False,False,False,False
+592332,Kevin Gausman,97.0,157,174,Slider - 1,Changeup - 1,None,None,None,Splitter - 5,139,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592351,Jon Gray,97.0,157,168,Slider - 4,Changeup - 3,Curve - 5,None,None,None,141,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+592662,Robbie Ray,96.0,140,185,Slider - 1,Changeup - 3,Curve - 1,Sinker - 4,None,None,145,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592716,Adrian Sampson,94.0,108,157,Slider - 3,Changeup - 3,None,Sinker - 1,Cutter - 1,None,146,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+592717,Aaron Sanchez,93.0,115,133,None,Changeup - 3,Curve - 4,Sinker - 3,None,None,147,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592761,Caleb Smith,93.0,119,76,Slider - 1,Changeup - 6,Curve - 1,None,None,None,149,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+592767,Drew Smyly,94.0,161,155,None,Changeup - 1,Curve - 1,Sinker - 3,Cutter - 4,None,150,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592773,Ryne Stanek,99.0,113,44,Hard Slider - 1,None,None,None,None,Splitter - 3,151,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592789,Noah Syndergaard,95.0,151,158,Slider - 1,Changeup - 4,Curve - 1,Sinker - 1,None,None,152,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592791,Jameson Taillon,95.0,140,166,Slider - 1,Changeup - 4,Curve - 2,Sinker - 4,Cutter - 5,None,153,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+592826,Vincent Velasquez,94.0,132,112,Slider - 1,Changeup - 1,Curve - 1,Sinker - 2,None,None,155,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+592836,Taijuan Walker,95.0,138,166,Slider - 1,None,Curve - 2,Sinker - 4,Cutter - 5,Splitter - 1,156,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+592858,Rowan Wick,96.0,118,48,Slider - 4,Changeup - 1,Slow Curve - 4,Sinker - 1,Cutter - 6,None,158,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+592866,Trevor Williams,93.0,167,108,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,159,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+593334,Domingo German,94.0,148,142,None,Changeup - 6,Curve - 1,Sinker - 4,None,None,160,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+593423,Frankie Montas,97.0,135,173,Slider - 1,None,None,Sinker - 3,Cutter - 1,Splitter - 2,161,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+593576,Hector Neris,96.0,119,43,Hard Slider - 4,None,None,Sinker - 5,None,Splitter - 1,162,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+593958,Eduardo Rodriguez,93.0,142,166,Slider - 1,Changeup - 4,None,Sinker - 1,Cutter - 2,None,165,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+593974,Wandy Peralta,97.0,124,42,Hard Slider - 1,Changeup - 4,None,Sinker - 4,None,None,166,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+594577,Mike Mayers,95.0,114,60,Slider - 1,Changeup - 3,Curve - 3,Sinker - 1,Cutter - 1,None,168,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+594798,Jacob deGrom,100.0,160,163,Hard Slider - 5,Changeup - 1,Curve - 1,None,None,None,170,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+594835,Marco Gonzales,89.0,137,174,None,Changeup - 5,Curve - 3,None,Cutter - 4,None,171,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+595345,Steven Okert,95.0,107,45,Slider - 4,None,None,None,None,None,173,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+595881,Tyler Beede,97.0,93,77,Hard Slider - 1,Changeup - 2,Curve - 4,Sinker - 1,None,None,174,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+596001,Jakob Junis,93.0,152,136,Slider - 4,Changeup - 1,None,Sinker - 1,Cutter - 1,None,176,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+596057,Daniel Norris,93.0,112,55,Slider - 4,Changeup - 1,Curve - 4,Sinker - 3,None,None,178,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+596071,Dillon Peters,94.0,97,67,Slider - 1,Changeup - 2,Curve - 4,Sinker - 2,None,None,179,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+596112,Robert Stephenson,98.0,128,44,Slider - 1,None,Curve - 4,None,None,Splitter - 3,181,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+596133,Luke Weaver,96.0,118,85,Slider - 1,Changeup - 1,Curve - 1,Sinker - 6,Cutter - 1,None,182,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+596295,Austin Gomber,93.0,127,134,Slider - 1,Changeup - 1,Curve - 4,None,None,None,184,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+598264,Matt Barnes,97.0,151,44,None,Changeup - 6,Curve - 1,None,None,None,185,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+598287,Noe Ramirez,91.0,132,43,None,Changeup - 1,Curve - 1,None,None,None,186,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+600917,Jose Leclerc,98.0,150,52,Slider - 2,Changeup - 4,None,None,Cutter - 1,None,187,False,False,False,True,False,False,True,True,False,False,False,False,False,False
+600921,Andres Machado,97.0,115,49,Hard Slider - 4,Changeup - 1,None,Sinker - 3,None,None,188,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+601713,Nick Pivetta,95.0,126,177,Slider - 1,Changeup - 1,Slow Curve - 4,None,None,None,189,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605130,Scott Barlow,96.0,129,47,Slider - 1,None,Curve - 5,Sinker - 1,None,None,190,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+605135,Chris Bassitt,95.0,127,180,Slider - 4,Changeup - 4,Slow Curve - 4,Sinker - 2,Cutter - 1,None,191,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605154,John Brebbia,96.0,173,42,Slider - 1,None,None,None,None,None,193,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605164,Dylan Bundy,92.0,151,143,Slider - 1,Changeup - 1,Curve - 2,Sinker - 5,None,None,195,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605177,Andrew Chafin,93.0,138,41,Slider - 1,Changeup - 4,None,Sinker - 3,None,None,196,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+605182,Mike Clevinger,95.0,124,163,Slider - 5,Changeup - 4,Curve - 2,Sinker - 5,Cutter - 1,None,197,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+605194,Jharel Cotton,94.0,109,60,Slider - 4,Changeup - 1,Curve - 4,None,None,None,198,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+605200,Zach Davies,90.0,90,162,Slider - 6,Changeup - 2,Slow Curve - 1,Sinker - 4,Cutter - 6,None,200,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+605218,Carl Edwards,96.0,128,48,None,Changeup - 2,Curve - 2,None,None,None,201,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+605242,Michael Fulmer,96.0,102,47,Slider - 1,Changeup - 1,Curve - 5,Sinker - 2,None,None,202,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+605280,Clay Holmes,98.0,108,44,Slider - 4,None,None,Sinker - 1,None,None,203,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+605288,Adrian Houser,95.0,110,163,Slider - 1,Changeup - 3,Curve - 4,Sinker - 1,None,None,204,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+605347,Jorge Lopez,98.0,121,63,Slider - 1,Changeup - 2,Curve - 4,Sinker - 3,None,None,205,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+605397,Joe Musgrove,94.0,139,180,Slider - 4,Changeup - 1,Curve - 4,Sinker - 1,Cutter - 1,None,206,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+605400,Aaron Nola,94.0,172,181,None,Changeup - 1,Curve - 5,Sinker - 4,Cutter - 1,None,207,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605447,Jordan Romano,99.0,171,44,Hard Slider - 1,None,None,Sinker - 6,None,None,209,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605483,Blake Snell,97.0,134,180,Hard Slider - 5,Changeup - 3,Curve - 4,None,None,None,211,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+605488,Jeffrey Springs,93.0,143,97,Slider - 1,Changeup - 1,None,Sinker - 6,None,None,212,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605507,Zach Thompson,94.0,135,128,None,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 1,None,213,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+605521,Art Warren,95.0,116,46,Slider - 1,None,None,None,None,None,214,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+605538,Matt Wisler,92.0,147,48,Slider - 1,None,None,None,None,None,216,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+605540,Brandon Woodruff,98.0,153,181,Hard Slider - 2,Changeup - 4,Curve - 1,Sinker - 4,None,None,217,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+606149,Giovanny Gallegos,95.0,149,47,Slider - 1,Changeup - 5,None,None,None,None,219,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+606160,Rafael Montero,97.0,135,45,Slider - 1,Changeup - 4,None,Sinker - 2,None,None,220,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+606424,Jarlin Garcia,95.0,123,47,Slider - 1,Changeup - 5,None,None,None,None,223,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+606625,Reyes Moronta,96.0,108,45,Slider - 4,Changeup - 4,None,None,None,None,224,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+607074,Carlos Rodon,98.0,125,183,Slider - 1,Changeup - 4,Curve - 3,None,None,None,227,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+607200,Erick Fedde,94.0,131,169,None,Changeup - 1,Curve - 4,Sinker - 1,Cutter - 1,None,230,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+607237,Amir Garrett,96.0,117,40,Slider - 1,None,None,Sinker - 3,None,None,233,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+607259,Nick Martinez,95.0,151,80,None,Changeup - 1,Curve - 5,Sinker - 5,Cutter - 1,None,234,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+607536,Kyle Freeland,92.0,129,172,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,240,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+607625,Seth Lugo,96.0,140,46,Slider - 1,Changeup - 4,Curve - 6,Sinker - 4,None,None,241,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+608032,Carlos Estevez,99.0,122,45,Hard Slider - 2,Changeup - 1,None,None,None,None,244,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+608328,Chase De Jong,95.0,121,75,Slider - 1,Changeup - 2,Curve - 4,Sinker - 6,None,None,245,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+608331,Max Fried,96.0,135,179,Hard Slider - 1,Changeup - 1,Slow Curve - 2,Sinker - 1,None,None,246,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+608337,Lucas Giolito,94.0,125,179,Slider - 1,Changeup - 2,Curve - 3,None,None,None,247,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+608344,Cole Irvin,92.0,156,167,Slider - 6,Changeup - 1,Curve - 1,Sinker - 2,Cutter - 1,None,248,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+608349,Corey Knebel,97.0,106,47,Slider - 6,None,Curve - 6,None,None,None,249,True,False,False,True,False,False,False,False,False,True,False,False,False,False
+608379,Michael Wacha,95.0,140,153,None,Changeup - 4,Curve - 3,Sinker - 4,Cutter - 4,None,251,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+608566,German Marquez,97.0,136,174,Hard Slider - 1,Changeup - 1,Curve - 1,Hard Sinker - 4,None,None,252,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+608648,Tyler Duffey,94.0,125,47,None,Changeup - 2,Curve - 2,Sinker - 1,None,None,254,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+608665,Kendall Graveman,98.0,121,45,Hard Slider - 5,Changeup - 1,Curve - 1,Sinker - 2,None,None,256,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+608678,Dominic Leone,97.0,126,43,Slider - 1,None,None,Hard Sinker - 3,Cutter - 1,None,257,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+608717,Chris Stratton,95.0,123,50,Slider - 1,Changeup - 1,Curve - 5,Sinker - 1,None,None,259,False,False,False,True,False,False,False,True,False,True,False,False,False,False
+608718,Brent Suter,89.0,137,51,None,Changeup - 1,Curve - 1,Sinker - 1,None,None,260,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+608723,Austin Voth,95.0,128,77,Slider - 5,Changeup - 3,Slow Curve - 3,None,Cutter - 1,None,261,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+614179,Jose Ruiz,98.0,107,47,None,Changeup - 4,Curve - 1,Sinker - 1,None,None,263,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+615698,Cal Quantrill,95.0,146,154,None,Changeup - 1,Curve - 1,Sinker - 3,Cutter - 1,None,264,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+617228,Hirokazu Sawamura,97.0,80,46,Slider - 1,None,None,None,None,Splitter - 1,265,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+621076,James Kaprielian,95.0,112,166,Slider - 1,Changeup - 1,Curve - 1,Sinker - 3,None,None,269,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+621107,Zach Eflin,95.0,158,137,Slider - 1,Changeup - 2,Curve - 2,Sinker - 2,Cutter - 4,None,272,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+621111,Walker Buehler,96.0,144,177,Slider - 5,Changeup - 1,Curve - 5,Sinker - 1,Cutter - 3,None,273,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+621112,Paul Blackburn,93.0,134,161,Slider - 6,Changeup - 1,Curve - 5,Sinker - 1,Cutter - 1,None,274,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+621121,Lance McCullers,95.0,92,188,Slider - 5,Changeup - 4,Curve - 5,Sinker - 1,Cutter - 1,None,276,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+621237,Jose Alvarado,101.0,109,43,None,None,Curve - 1,Sinker - 3,Cutter - 1,None,278,True,False,True,False,False,True,False,False,False,False,False,False,False,False
+621242,Edwin Diaz,101.0,164,43,Hard Slider - 1,None,None,Sinker - 5,None,None,279,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+621244,Jose Berrios,95.0,152,171,None,Changeup - 1,Curve - 4,Sinker - 4,None,None,280,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+621345,A.J. Minter,97.0,152,42,None,Changeup - 2,None,None,Cutter - 1,None,284,True,False,True,True,False,False,False,False,False,False,False,False,False,False
+621363,Colin Poche,94.0,97,43,Slider - 4,None,Curve - 6,None,None,None,286,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+621368,Taylor Hearn,96.0,138,106,Slider - 1,Changeup - 1,None,Sinker - 3,Cutter - 1,None,288,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+621381,Matt Strahm,95.0,132,43,Slider - 1,Changeup - 6,Curve - 1,Sinker - 5,None,None,289,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+621389,Ty Blach,92.0,176,66,None,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 1,None,291,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+622072,Alex Wood,93.0,142,166,Slider - 1,Changeup - 1,None,Sinker - 2,None,None,294,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+622251,Josh Staumont,99.0,97,47,None,None,Curve - 4,Sinker - 3,None,None,298,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+622253,Dillon Tate,96.0,144,45,Slider - 4,Changeup - 4,None,Sinker - 1,None,None,299,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+622491,Luis Castillo,99.0,124,188,Hard Slider - 1,Changeup - 4,None,Sinker - 2,None,None,300,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+622554,Seranthony Dominguez,100.0,111,43,Slider - 1,Changeup - 3,None,Sinker - 1,Cutter - 2,None,302,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+622608,Antonio Senzatela,96.0,127,161,Hard Slider - 2,Changeup - 1,Curve - 1,Sinker - 1,None,None,303,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+622663,Luis Severino,98.0,143,167,Slider - 3,Changeup - 3,None,Sinker - 5,Cutter - 1,None,304,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+622694,Elieser Hernandez,93.0,171,120,Slider - 5,Changeup - 5,None,Sinker - 4,None,None,305,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+623149,Paul Sewald,94.0,125,44,Slider - 5,None,None,None,None,None,307,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+623167,Chris Flexen,93.0,124,147,Slider - 1,Changeup - 1,Slow Curve - 1,None,Cutter - 2,None,308,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+623352,Josh Hader,98.0,94,45,Slider - 1,Changeup - 1,None,Sinker - 4,None,None,310,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+623451,Jackson Stephens,95.0,122,59,Hard Slider - 1,Changeup - 1,Slow Curve - 3,Sinker - 1,None,None,312,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+623465,Evan Phillips,97.0,164,42,Slider - 5,None,None,Sinker - 1,Cutter - 2,None,313,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+624133,Ranger Suarez,95.0,106,138,Slider - 1,Changeup - 1,Curve - 2,Sinker - 1,Cutter - 1,None,316,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+624522,Keegan Thompson,95.0,107,108,Slider - 4,Changeup - 4,Curve - 4,Sinker - 1,Cutter - 2,None,318,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+625643,Reynaldo Lopez,98.0,131,52,Slider - 1,Changeup - 1,Curve - 1,None,None,None,319,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+628452,Raisel Iglesias,97.0,142,43,Slider - 3,Changeup - 4,None,Sinker - 4,None,None,320,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+628711,Julio Urias,95.0,166,166,None,Changeup - 1,Curve - 4,Sinker - 1,None,None,322,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+640444,Wil Crowe,96.0,97,76,Hard Slider - 5,Changeup - 1,Curve - 4,Sinker - 1,None,None,324,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+640448,Kyle Finnegan,98.0,136,45,Slider - 1,None,None,Sinker - 3,None,Splitter - 1,325,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+640451,Hunter Harvey,99.0,134,47,Hard Slider - 1,None,Curve - 3,Sinker - 5,None,Splitter - 1,326,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+640455,Sean Manaea,93.0,148,167,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,327,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+640462,A.J. Puk,98.0,129,47,Hard Slider - 1,Changeup - 2,None,Sinker - 2,None,None,328,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641154,Pablo Lopez,95.0,136,172,None,Changeup - 4,Curve - 3,Sinker - 1,Cutter - 1,None,330,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641302,Tyler Alexander,91.0,157,105,Slider - 4,Changeup - 2,None,Sinker - 4,Cutter - 3,None,331,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+641360,Phil Bickford,95.0,132,44,Slider - 1,None,None,None,None,None,333,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+641401,Connor Brogdon,97.0,147,44,None,Changeup - 5,None,None,Cutter - 5,None,335,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641447,Daniel Castano,94.0,147,117,Slider - 1,Changeup - 1,None,Sinker - 1,Cutter - 1,None,336,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641482,Nestor Cortes,93.0,152,161,Slider - 5,Changeup - 1,Curve - 4,Sinker - 3,Cutter - 2,None,337,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+641540,Dane Dunning,91.0,124,161,Slider - 1,Changeup - 4,None,Sinker - 1,Cutter - 2,None,339,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+641582,Matt Foster,95.0,126,46,Slider - 1,Changeup - 4,Curve - 1,None,Cutter - 6,None,340,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641627,Trevor Gott,96.0,104,46,None,Changeup - 1,Curve - 3,Sinker - 2,Cutter - 4,None,341,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+641712,Dakota Hudson,93.0,116,162,Hard Slider - 2,Changeup - 1,Curve - 1,Sinker - 1,None,None,344,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+641726,Daulton Jefferies,94.0,110,150,None,Changeup - 1,Curve - 1,Sinker - 5,Cutter - 4,None,345,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+641729,Joe Jimenez,96.0,128,44,Slider - 1,Changeup - 5,None,None,None,None,346,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+641745,Brad Keller,96.0,97,142,Hard Slider - 5,Changeup - 1,None,Sinker - 1,None,None,347,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641771,Chad Kuhl,95.0,108,148,Hard Slider - 1,Changeup - 1,Curve - 4,Sinker - 1,None,None,349,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641778,Eric Lauer,94.0,131,172,Hard Slider - 5,Changeup - 4,Curve - 1,None,Cutter - 4,None,350,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641793,Zack Littell,96.0,141,48,Slider - 1,None,None,None,None,Splitter - 1,351,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641816,Tyler Mahle,95.0,135,180,Slider - 1,None,None,None,Cutter - 3,Splitter - 6,352,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641835,Tim Mayza,95.0,141,38,Hard Slider - 1,None,None,Sinker - 3,None,None,353,True,False,False,False,True,True,False,False,True,False,False,False,False,False
+641927,Bailey Ober,93.0,163,149,Slider - 1,Changeup - 4,Curve - 3,None,None,None,357,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+641941,Emilio Pagan,97.0,136,48,Slider - 4,None,Curve - 4,None,Cutter - 1,Splitter - 4,358,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+642152,Lou Trivino,97.0,107,44,Slider - 6,Changeup - 2,Curve - 3,Sinker - 2,Cutter - 1,None,363,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+642207,Devin Williams,96.0,110,46,None,Changeup - 5,None,None,Cutter - 2,None,366,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+642232,Ryan Yarbrough,88.0,157,146,None,Changeup - 4,Slow Curve - 1,Sinker - 1,Cutter - 1,None,368,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+642397,Gregory Soto,100.0,107,47,Slider - 1,Changeup - 5,None,Sinker - 3,None,None,369,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+642528,Jonathan Loaisiga,100.0,129,46,None,Changeup - 6,Curve - 1,Sinker - 4,None,None,370,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+642545,Jaime Barria,94.0,156,83,Slider - 1,Changeup - 3,None,Sinker - 3,None,None,371,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+642547,Freddy Peralta,95.0,119,155,Slider - 2,Changeup - 1,Curve - 1,None,None,None,373,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+642585,Felix Bautista,101.0,123,43,Slider - 1,None,None,None,Cutter - 1,Splitter - 1,374,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+642701,Dennis Santana,98.0,88,44,Slider - 1,Changeup - 5,None,Sinker - 4,None,None,375,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+642758,Domingo Acevedo,94.0,120,42,Slider - 2,Changeup - 5,None,Sinker - 6,None,None,376,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+643256,Adam Cimber,88.0,141,41,Slider - 3,None,None,Sinker - 1,None,None,379,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+643377,Griffin Jax,95.0,137,60,Slider - 4,Changeup - 1,Curve - 1,None,None,None,384,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+643410,Mark Leiter,92.0,118,71,Slider - 4,Changeup - 1,Slow Curve - 1,Sinker - 1,Cutter - 1,None,386,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+643493,Austin Pruitt,92.0,165,53,Hard Slider - 4,Changeup - 1,Curve - 2,None,None,None,387,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+643511,Tyler Rogers,85.0,144,45,Slider - 6,None,None,Sinker - 1,None,None,388,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+644364,Victor Arano,96.0,150,44,Slider - 1,None,None,Sinker - 4,None,None,390,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+645261,Sandy Alcantara,99.0,137,188,Hard Slider - 1,Changeup - 3,Curve - 1,Sinker - 3,None,None,392,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+650556,Bryan Abreu,98.0,82,50,Slider - 1,Changeup - 4,Curve - 3,Sinker - 3,None,None,398,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+650633,Michael King,97.0,145,66,Slider - 6,Changeup - 5,None,Sinker - 1,None,None,399,False,False,True,True,False,False,False,False,False,True,False,False,False,False
+650644,Aaron Civale,93.0,144,162,Slider - 5,None,Slow Curve - 5,Sinker - 1,Cutter - 1,Splitter - 4,400,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+650671,Jose Quijada,96.0,138,45,Slider - 3,Changeup - 3,None,None,None,None,401,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+650893,Genesis Cabrera,98.0,117,48,Hard Slider - 4,Changeup - 4,Curve - 2,Sinker - 4,None,None,402,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+650895,Diego Castillo,97.0,106,42,Hard Slider - 4,None,None,Sinker - 1,None,None,403,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+656061,Albert Abreu,100.0,104,55,Hard Slider - 4,Changeup - 5,None,Sinker - 4,None,None,407,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656222,Jalen Beeks,96.0,148,58,Slider - 1,Changeup - 5,None,None,Cutter - 1,None,408,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+656271,Brock Burke,96.0,122,61,Hard Slider - 4,Changeup - 5,None,Sinker - 5,None,None,412,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656302,Dylan Cease,98.0,111,184,Hard Slider - 1,Changeup - 4,Curve - 5,Sinker - 4,None,None,414,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+656353,Tucker Davidson,95.0,84,149,Hard Slider - 5,Changeup - 4,Curve - 1,Sinker - 2,None,None,416,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+656412,Alex Faedo,94.0,125,157,Slider - 1,Changeup - 5,None,None,None,None,418,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656427,Jack Flaherty,95.0,103,150,Slider - 1,Changeup - 1,Slow Curve - 1,Sinker - 1,Cutter - 1,None,420,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656529,Sam Hentges,97.0,106,55,Hard Slider - 1,None,Curve - 4,Sinker - 1,None,None,425,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+656546,Jeff Hoffman,96.0,85,69,Slider - 4,Changeup - 2,None,None,None,None,426,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+656557,Tanner Houck,96.0,93,80,Slider - 3,None,None,Sinker - 1,None,Splitter - 5,427,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+656605,Mitch Keller,97.0,101,164,Slider - 5,Changeup - 1,Curve - 5,Sinker - 2,None,None,429,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+656629,Michael Kopech,97.0,110,113,Slider - 1,Changeup - 3,Curve - 1,None,None,None,430,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+656657,Zach Logue,91.0,80,144,None,Changeup - 1,Curve - 1,None,Cutter - 1,None,432,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+656685,Brett Martin,95.0,148,41,Hard Slider - 1,None,Curve - 1,Sinker - 3,None,None,433,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656731,Tylor Megill,97.0,150,131,Slider - 1,Changeup - 3,Curve - 1,None,Cutter - 1,None,436,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656756,Jordan Montgomery,94.0,155,165,None,Changeup - 2,Curve - 1,Sinker - 4,Cutter - 2,None,437,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+656849,David Peterson,95.0,86,137,Slider - 1,Changeup - 4,Curve - 1,Sinker - 3,None,None,444,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+656876,Drew Rasmussen,97.0,143,126,Slider - 4,None,Curve - 4,Sinker - 4,Cutter - 1,None,445,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+656945,Tanner Scott,98.0,93,48,Hard Slider - 2,None,None,None,None,None,447,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+656970,Devin Smeltzer,91.0,124,148,Slider - 5,Changeup - 1,Curve - 4,Sinker - 1,Cutter - 1,None,449,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+657006,Justin Steele,94.0,117,146,Slider - 5,Changeup - 2,Curve - 3,Sinker - 1,None,None,451,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+657024,Erik Swanson,95.0,152,43,Slider - 2,None,None,None,None,Splitter - 3,452,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+657044,Ryan Thompson,93.0,119,42,Slider - 6,Changeup - 1,None,Sinker - 1,Cutter - 1,None,453,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+657093,Spenser Watkins,92.0,142,136,Slider - 5,Changeup - 1,Curve - 4,Sinker - 4,Cutter - 2,None,455,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+657140,Kyle Wright,96.0,147,174,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,456,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+657248,Glenn Otto,94.0,84,161,Slider - 6,Changeup - 3,Curve - 1,Sinker - 1,None,None,458,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+657277,Logan Webb,94.0,153,174,Slider - 2,Changeup - 1,None,Sinker - 1,None,None,461,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+657376,Clarke Schmidt,96.0,111,73,Slider - 1,Changeup - 1,Curve - 5,Hard Sinker - 4,None,None,462,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+657612,Tim Hill,93.0,113,39,Slider - 1,None,None,Sinker - 1,Cutter - 2,None,467,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+657649,Jared Koenig,91.0,101,131,None,Changeup - 1,Curve - 2,Sinker - 1,Cutter - 1,None,468,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+657746,Joe Ryan,94.0,145,171,Slider - 1,Changeup - 6,Curve - 2,None,None,None,469,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+660271,Shohei Ohtani,99.0,120,178,Slider - 5,None,Curve - 5,Sinker - 1,Cutter - 1,Splitter - 1,476,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+660761,Jose Suarez,94.0,138,153,Slider - 2,Changeup - 1,Curve - 1,Sinker - 1,None,None,480,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+660813,Brusdar Graterol,101.0,157,42,Hard Slider - 4,None,None,Sinker - 1,Cutter - 1,None,482,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+660853,Enyel De Los Santos,96.0,152,48,Slider - 1,Changeup - 4,None,None,None,None,484,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+661269,Vladimir Gutierrez,94.0,113,150,Slider - 4,Changeup - 2,Curve - 4,None,None,None,487,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+661309,Adrian Martinez,95.0,116,164,Slider - 1,Changeup - 1,None,Sinker - 3,None,None,488,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+661395,Jhoan Duran,102.0,143,48,Hard Slider - 1,None,Curve - 1,None,None,Splitter - 3,490,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+661403,Emmanuel Clase,101.0,146,39,Slider - 1,None,None,None,Cutter - 4,None,491,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+662253,Andres Munoz,102.0,168,44,Slider - 1,None,None,None,None,None,494,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+663158,Robert Suarez,100.0,125,48,None,Changeup - 4,Curve - 1,Sinker - 4,Cutter - 4,None,495,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+663372,Ryan Feltner,96.0,104,163,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,None,None,496,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+663423,Trent Thornton,95.0,144,55,Slider - 5,None,Curve - 5,Sinker - 1,None,None,499,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+663436,Davis Martin,96.0,128,147,Slider - 1,Changeup - 4,Curve - 3,None,None,None,501,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+663455,Konnor Pilkington,94.0,88,138,Slider - 1,Changeup - 2,Curve - 1,Sinker - 6,None,None,502,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+663460,Kris Bubic,93.0,108,155,None,Changeup - 3,Curve - 4,None,None,None,503,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+663474,Triston McKenzie,94.0,136,169,Slider - 3,None,Curve - 1,None,None,None,505,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+663556,Shane McClanahan,98.0,139,165,Hard Slider - 4,Changeup - 5,Curve - 2,None,None,None,510,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+663559,Bailey Falter,92.0,156,130,Slider - 1,Changeup - 3,Curve - 1,Sinker - 3,None,None,512,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+663738,Daniel Lynch,95.0,111,172,Slider - 1,Changeup - 3,Curve - 1,Sinker - 2,None,None,515,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+663765,Jake Woodford,94.0,118,72,Slider - 4,Changeup - 1,Slow Curve - 4,Sinker - 1,None,None,518,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+663776,Patrick Sandoval,95.0,109,173,Slider - 1,Changeup - 3,Curve - 3,Sinker - 2,None,None,520,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+663855,Jordan Hicks,102.0,110,69,Slider - 4,Changeup - 4,None,Sinker - 1,None,None,522,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+663903,Brady Singer,95.0,114,168,Slider - 1,Changeup - 5,None,Sinker - 1,None,None,523,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+663986,Trevor Stephan,98.0,136,49,Slider - 2,None,None,None,None,Splitter - 2,526,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+664062,Tony Gonsolin,95.0,133,156,Hard Slider - 4,None,Curve - 1,None,None,Splitter - 2,530,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+664141,JT Brubaker,94.0,139,163,Hard Slider - 1,Changeup - 2,Curve - 1,Sinker - 3,None,None,536,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+664161,Matt Swarmer,92.0,80,121,Slider - 1,Changeup - 1,None,None,None,None,537,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+664199,Taylor Clarke,97.0,152,48,Hard Slider - 2,Changeup - 1,None,None,None,None,538,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+664208,Phil Maton,92.0,118,46,Slider - 6,Changeup - 4,Slow Curve - 6,Sinker - 1,Cutter - 5,None,540,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+664285,Framber Valdez,95.0,109,186,None,Changeup - 1,Curve - 6,Sinker - 1,Cutter - 1,None,541,False,False,False,False,False,True,False,False,False,True,False,False,True,False
+664299,Cristian Javier,95.0,86,142,Slider - 5,Changeup - 4,Slow Curve - 1,None,None,None,543,False,False,True,True,False,False,True,False,False,False,False,False,False,False
+664353,Jose Urquidy,95.0,150,171,Slider - 5,Changeup - 6,Curve - 4,None,Cutter - 1,None,545,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+664747,Alexis Diaz,97.0,127,48,Hard Slider - 4,None,Curve - 4,None,None,None,546,False,False,True,True,False,False,True,True,False,False,False,False,False,False
+664854,Ryan Helsley,101.0,129,46,Hard Slider - 4,Changeup - 2,Curve - 2,None,None,None,549,False,False,True,True,False,False,False,True,False,False,False,False,False,False
+665152,Dean Kremer,95.0,141,166,None,Changeup - 1,Slow Curve - 1,Sinker - 4,Cutter - 2,None,557,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+665621,Rony Garcia,94.0,122,113,None,Changeup - 1,Curve - 1,Sinker - 2,None,None,558,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+665665,Reiver Sanmartin,93.0,113,57,Slider - 1,Changeup - 3,None,Sinker - 1,None,None,561,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+665795,Edward Cabrera,97.0,98,168,Hard Slider - 3,Changeup - 4,Curve - 1,Sinker - 4,None,None,562,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+665871,Javier Assad,94.0,118,150,Slider - 4,Changeup - 2,Curve - 4,Sinker - 2,Cutter - 1,None,563,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+666120,Ian Anderson,95.0,107,175,None,Changeup - 1,Curve - 1,Sinker - 1,None,None,565,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+666129,Braxton Garrett,92.0,153,161,Slider - 2,Changeup - 4,Curve - 3,Sinker - 1,None,None,566,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+666142,Cole Ragans,93.0,122,154,None,Changeup - 6,Slow Curve - 1,None,Cutter - 1,None,567,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+666157,Nick Lodolo,95.0,162,180,None,Changeup - 4,Curve - 3,Sinker - 4,None,None,568,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+666159,Matt Manning,95.0,121,158,Slider - 4,Changeup - 1,Curve - 3,Sinker - 1,None,None,569,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+666200,Jesus Luzardo,98.0,138,160,None,Changeup - 4,Curve - 1,Sinker - 5,None,None,571,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+666201,Alek Manoah,95.0,125,182,Slider - 5,Changeup - 4,None,Sinker - 1,None,None,572,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+666374,Matt Brash,99.0,127,58,Slider - 5,Changeup - 5,Curve - 4,None,None,None,576,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+666721,Max Castillo,94.0,124,103,Slider - 1,Changeup - 1,None,None,None,None,577,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+666808,Camilo Doval,101.0,88,45,Slider - 1,None,None,Hard Sinker - 1,Cutter - 6,None,578,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+667427,Zach Jackson,96.0,81,45,Slider - 1,Changeup - 1,None,None,Cutter - 6,None,583,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+668676,Zach Plesac,94.0,137,168,Slider - 1,Changeup - 3,Curve - 1,Sinker - 4,None,None,589,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+668678,Zac Gallen,95.0,142,180,Slider - 1,Changeup - 1,Curve - 3,Sinker - 4,Cutter - 1,None,590,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+668881,Hunter Greene,101.0,145,177,Hard Slider - 4,Changeup - 2,None,None,None,None,594,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+668933,Graham Ashcraft,99.0,112,178,Slider - 4,Changeup - 1,None,Hard Sinker - 1,Cutter - 2,None,595,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+669022,MacKenzie Gore,96.0,127,154,Hard Slider - 4,Changeup - 5,Curve - 1,None,None,None,599,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669060,Bryse Wilson,94.0,123,143,Slider - 1,Changeup - 1,Slow Curve - 1,Sinker - 1,None,None,600,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+669145,Bruce Zimmermann,92.0,140,150,Slider - 1,Changeup - 6,Curve - 1,Sinker - 1,None,None,603,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669169,Jonathan Heasley,95.0,97,166,Slider - 1,Changeup - 3,Curve - 4,Sinker - 6,None,None,605,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669203,Corbin Burnes,98.0,117,186,Slider - 1,Changeup - 2,Curve - 1,Hard Sinker - 4,Cutter - 5,None,607,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+669211,Keegan Akin,94.0,139,81,Slider - 1,Changeup - 4,Slow Curve - 1,None,None,None,608,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669212,Eli Morgan,93.0,172,68,Slider - 1,Changeup - 2,Curve - 2,None,Cutter - 6,None,609,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669302,Logan Gilbert,97.0,139,178,Slider - 1,Changeup - 4,Curve - 1,Sinker - 2,None,None,612,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669330,Tyler Wells,95.0,138,98,Slider - 1,Changeup - 6,Curve - 4,None,None,None,613,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+669373,Tarik Skubal,96.0,147,169,Slider - 1,Changeup - 1,Curve - 1,Sinker - 2,None,None,615,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+669432,Trevor Rogers,96.0,119,165,Slider - 3,Changeup - 1,None,Sinker - 4,None,None,618,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+669456,Shane Bieber,93.0,151,180,Slider - 1,Changeup - 1,Curve - 4,None,Cutter - 1,None,619,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669461,Matthew Liberatore,96.0,83,143,Hard Slider - 1,Changeup - 1,Slow Curve - 4,Sinker - 2,None,None,621,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+669467,Andre Pallante,96.0,122,82,Hard Slider - 4,Changeup - 1,Slow Curve - 3,Sinker - 1,None,None,622,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+669674,Sammy Long,95.0,126,73,None,Changeup - 4,Curve - 4,Sinker - 6,None,None,625,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+669920,Jason Alexander,94.0,144,129,Slider - 4,Changeup - 4,None,Sinker - 1,None,None,631,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+669923,George Kirby,97.0,164,163,Slider - 3,Changeup - 1,Curve - 4,Sinker - 3,Cutter - 1,None,632,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+669952,Mitch White,96.0,122,120,Slider - 1,Changeup - 1,Curve - 4,Sinker - 3,None,None,634,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+670124,Adam Oller,95.0,123,136,Slider - 1,Changeup - 2,Curve - 1,Sinker - 5,Cutter - 3,None,639,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+670167,John Schreiber,96.0,96,44,Slider - 4,Changeup - 1,None,Sinker - 1,None,None,640,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+670280,David Bednar,98.0,137,47,None,None,Curve - 2,Sinker - 6,None,Splitter - 1,642,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+670912,Johan Oviedo,98.0,116,112,Slider - 1,Changeup - 2,Curve - 1,None,None,None,648,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+670950,Trevor Richards,94.0,92,50,None,Changeup - 4,Curve - 1,None,None,None,649,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+670990,Yohan Ramirez,97.0,105,53,Slider - 6,None,None,Sinker - 2,None,None,652,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+672282,Reid Detmers,95.0,121,169,Slider - 1,Changeup - 2,Slow Curve - 3,Sinker - 5,None,None,655,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+672335,Cionel Perez,98.0,131,40,Slider - 4,None,None,Sinker - 1,None,None,656,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+672578,Carlos Hernandez,99.0,99,95,Slider - 1,None,Curve - 1,Sinker - 6,None,Splitter - 4,658,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+672710,Roansy Contreras,97.0,125,149,Slider - 1,Changeup - 5,Curve - 4,None,None,None,660,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+672851,Joan Adon,96.0,101,167,Hard Slider - 2,Changeup - 4,Curve - 2,Sinker - 4,None,None,662,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+674072,Tommy Henry,93.0,112,167,Slider - 1,Changeup - 1,Curve - 1,Sinker - 5,None,None,664,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+675911,Spencer Strider,100.0,122,145,Hard Slider - 2,Changeup - 4,None,None,None,None,668,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+675916,James Karinchak,96.0,93,48,None,None,Curve - 1,None,None,None,670,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+675921,Spencer Howard,96.0,119,120,None,Changeup - 2,Slow Curve - 1,None,Cutter - 1,None,671,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+676265,Cory Abbott,93.0,88,109,Slider - 4,None,Curve - 1,None,None,None,677,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+676477,Garrett Whitlock,97.0,152,73,Slider - 1,Changeup - 5,None,Sinker - 4,None,None,678,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+676596,Josh Fleming,93.0,139,129,None,Changeup - 1,Curve - 2,Sinker - 1,Cutter - 1,None,680,True,False,False,False,True,True,False,False,False,False,True,False,False,False
+676664,JP Sears,94.0,140,127,Slider - 1,Changeup - 4,None,None,None,None,684,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+676710,Kutter Crawford,96.0,129,124,Slider - 1,Changeup - 1,Curve - 4,None,Cutter - 1,None,686,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+676879,Aaron Ashby,97.0,130,138,Slider - 2,Changeup - 1,Curve - 5,Sinker - 1,None,None,692,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+677651,Luis Garcia,95.0,114,168,Slider - 5,Changeup - 6,Curve - 1,Sinker - 6,Cutter - 1,None,697,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+678394,Brayan Bello,98.0,136,151,Slider - 1,Changeup - 4,Curve - 1,Sinker - 1,None,None,699,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+680686,Josiah Gray,96.0,114,176,Slider - 1,Changeup - 5,Curve - 1,Sinker - 5,None,None,701,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+680694,Kyle Bradish,97.0,108,168,Slider - 3,Changeup - 1,Curve - 3,Sinker - 3,None,None,702,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+680739,Josh Winder,95.0,124,146,Slider - 1,Changeup - 2,Curve - 1,None,None,None,704,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+681911,Alex Vesia,95.0,111,43,Slider - 1,Changeup - 4,None,None,None,None,710,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+682051,Garrett Hill,94.0,125,121,Slider - 1,Changeup - 1,Curve - 4,Sinker - 4,None,None,711,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+682171,Penn Murfee,90.0,153,44,Slider - 6,None,None,Sinker - 1,None,None,712,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+686752,Ryan Pepiot,95.0,135,160,Slider - 1,Changeup - 4,None,None,None,None,718,False,False,False,True,False,False,True,False,False,False,False,True,False,False
+689225,Beau Brieske,95.0,120,166,Slider - 1,Changeup - 6,Curve - 1,Sinker - 4,None,None,722,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+693821,Bryce Elder,93.0,97,169,Slider - 1,Changeup - 1,Curve - 1,Sinker - 1,Cutter - 6,None,723,False,False,False,False,True,False,False,False,False,False,False,False,False,False
